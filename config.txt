@@ -23,3 +23,6 @@ git remote add origin https://github.com/DonniDarko777/test.git
 git branch -M main
 git push -u origin main
 ----------------------------------------------------------
+Для повторной залики 
+add потом commit потом, status потом  git push -u origin main
+----------------------------------------------------------
