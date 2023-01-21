@@ -17,3 +17,5 @@ nothing added to commit but untracked files present (use "git add" to track) -д
 ------------------------------------------------------------------
 $ git add . - точка означает добавить все файлы 
 
+git status - проверяем че изменилось 
+git commit -m "perv komment" комит для всех файлов 
