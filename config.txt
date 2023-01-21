@@ -26,3 +26,6 @@ git push -u origin main
 Для повторной залики 
 add потом commit потом, status потом  git push -u origin main
 ----------------------------------------------------------
+
+git clone https://github.com/jquery/jquery.git - пример для скачивания репозитория с github 
+-------------------------------------------------------------
